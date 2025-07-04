@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  background-color: #333;
+  padding: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 20px;
+}
+
+img {
+  margin: 10px;
+  border: 2px solid #ccc;
+}
